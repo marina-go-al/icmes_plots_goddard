@@ -53,7 +53,17 @@ Moreover, as you have also seen in the picture, the _Elliptic-cylindrical Analyt
 * As you will see, the code `cylinders_auto_v3.m` is not very clean and some variable names are not the best and can lead to confusion. Right now I do not have time to change this, but I will eventually (hopefully) fix this issue.
 * The code `cylinders_auto_v3.m` has been designed for a very particular example, so it's not automated and you will have to be careful with the rotation matrices, always being careful with what coordinate system you are working with in order to rotate the structure the exact number of degrees.
 
-## Citations
-In case that you use any of the previous codes for your work, please cite the following document:
+## Author 
+
+Marina González Álvarez
+
+Undergraduate student at CFIS-UPC (Barcelona Tech, Spain).
+
+CFIS-UPC: https://cfis.upc.edu/es
+
+Barcelona Tech: http://www.upc.edu/?set_language=en
+
+## Citation
+Please cite the report if it helps in your publications:
 
 (Coming soon)
