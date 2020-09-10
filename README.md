@@ -64,6 +64,4 @@ CFIS-UPC: https://cfis.upc.edu/es
 Barcelona Tech: http://www.upc.edu/?set_language=en
 
 ## Citation
-Please cite the report if it helps in your publications:
-
-(Coming soon)
+Please cite the report if it helps in your publications: https://upcommons.upc.edu/handle/2117/168746
